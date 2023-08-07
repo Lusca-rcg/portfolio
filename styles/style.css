@@ -22,7 +22,7 @@ body{
     box-sizing: border-box;
 }
 .cabecalho{
-padding: 5% 0% 0% 15%;
+padding: 3% 0% 0% 15%;
 }
 
 .cabecalho__menu{
@@ -43,7 +43,7 @@ strong{
 }
 
 .apresentacao{
-    padding: 5% 15%;
+    padding: 5% 5%;
     color: var(--cor-secundaria);
     display: flex;
     align-items: center;
