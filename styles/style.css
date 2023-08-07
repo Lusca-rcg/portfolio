@@ -17,7 +17,6 @@
 }
 
 body{
-    /* height: 100vh; */
     color: var(--cor-secundaria);
     background-color: var(--cor-primaria);
     box-sizing: border-box;
@@ -103,7 +102,6 @@ strong{
     gap: 16px;    
     font-family: var(--font-secundaria);
      
-    /* background-color: #22D4FD; */
 }
 
 .apresentacao__links__link:hover{
@@ -142,12 +140,3 @@ strong{
     .apresentaçao__conteudo{
         width: auto;
     }
-
-/* para fazer um comentário, basta escrever cntrl + k + c */
-
-
- /* :root{ 
-    --cor-primaria: #2C3639;
-    --cor-secundaria: #A27B5C;
-    --cor-terciaria: #DCD7C9;
-    --cor-roover: #3F4E4F;  */
