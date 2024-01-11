@@ -131,7 +131,7 @@ strong{
     font-weight: 400;
 }
 
-@media (max-width: 1200px){
+@media (max-width: 900px){
     .cabecalho{
         padding: 10.5%;
     }
