@@ -140,7 +140,7 @@ strong{
         justify-content: center;
     }
     .cabecalho__menu__links{
-        font-size: 1.2rem;        
+        font-size: 1rem;        
     }
     .apresentacao{
         flex-direction: column-reverse;
@@ -151,7 +151,7 @@ strong{
         width: auto;
     }
     .imagem{
-        width: 40%;
+        width: 50%;
     }
    .apresentacao__links__link{
     
