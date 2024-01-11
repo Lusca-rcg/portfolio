@@ -137,21 +137,27 @@ strong{
     }
 
     .cabecalho__menu{
-        justify-content: center;
+        justify-content: space-between;
+        gap: 20px;
     }
     .cabecalho__menu__links{
-        font-size: 1rem;        
+        font-size: 1.3rem;        
     }
     .apresentacao{
         flex-direction: column-reverse;
         padding: 5%;
     }
-
+    .apresentacao__titulo{
+        font-size: 2rem;
+    }
+    .apresentacao__subtitulo{
+        font-size: 1.2rem;
+    }
     .apresentaçao__conteudo{
         width: auto;
     }
     .imagem{
-        width: 50%;
+        width: 60%;
     }
    .apresentacao__links__link{
     
